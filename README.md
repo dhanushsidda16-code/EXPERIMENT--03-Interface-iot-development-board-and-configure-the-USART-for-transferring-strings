@@ -143,8 +143,8 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
-    printf("Bhoopesh P\r\n");
-    printf("212224110013\r\n");
+    printf("Dhanush P\r\n");
+    printf("212224243006\r\n");
     HAL_Delay(500); // 500 ms delay
   }
 }
@@ -258,9 +258,7 @@ void Error_Handler(void)
 
 ## Output screen shots of Serial port utility   :
 
-
-<img width="1920" height="1200" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/e5bca483-e45e-403e-9202-74147ef82adf" />
-
+![image](<img width="1920" height="1200" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/15b2f92f-2bb6-4ba0-a4e1-24676aecac62" />.png)
 
  
  
