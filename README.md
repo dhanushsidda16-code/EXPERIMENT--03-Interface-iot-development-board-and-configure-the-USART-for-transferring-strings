@@ -257,11 +257,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots of Serial port utility   :
+ <img width="1920" height="1200" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/4e30804c-b4bc-4e1c-bc88-8f34a01236cc" />
 
-![image](<img width="1920" height="1200" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/15b2f92f-2bb6-4ba0-a4e1-24676aecac62" />.png)
-
- 
- 
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
